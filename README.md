@@ -1,0 +1,2 @@
+# vs.s
+vajra-social
